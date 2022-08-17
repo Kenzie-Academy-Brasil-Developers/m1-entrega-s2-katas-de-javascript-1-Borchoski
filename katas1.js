@@ -5,7 +5,7 @@ function oneThroughTwenty() {
     }
     return contador;
 }
-//console.log(oneThroughTwenty())
+console.log(oneThroughTwenty())
 
 function evensToTwenty() {
     let numerosPares = []
@@ -16,7 +16,7 @@ function evensToTwenty() {
     }
     return numerosPares
 }
-//console.log(evensToTwenty())
+console.log(evensToTwenty())
 
 function oddsToTwenty() {
   let numerosImpares = []
@@ -27,7 +27,7 @@ function oddsToTwenty() {
   }
   return numerosImpares
 }
-//console.log(oddsToTwenty())
+console.log(oddsToTwenty())
 
 function multiplesOfFive() {
   let multiplosCinco = []
@@ -36,7 +36,7 @@ function multiplesOfFive() {
   }
   return multiplosCinco
 }
-//console.log(multiplesOfFive())
+console.log(multiplesOfFive())
 
 function squareNumbers() {
   let quadradosPerfeitos = []
@@ -47,7 +47,7 @@ function squareNumbers() {
     }
     return quadradosPerfeitos
 }
-//console.log(squareNumbers())
+console.log(squareNumbers())
 
 function countingBackwards() {
   let contador = [];
@@ -56,7 +56,7 @@ function countingBackwards() {
   }
   return contador;
 }
-//console.log(countingBackwards())
+console.log(countingBackwards())
 
 function evenNumbersBackwards() {
   let numerosPares = []
@@ -67,7 +67,7 @@ function evenNumbersBackwards() {
   }
   return numerosPares
 }
-//console.log(evenNumbersBackwards())
+console.log(evenNumbersBackwards())
 
 function oddNumbersBackwards() {
   let numerosImpares = []
@@ -78,7 +78,7 @@ function oddNumbersBackwards() {
   }
   return numerosImpares
 }
-//console.log(oddNumbersBackwards())
+console.log(oddNumbersBackwards())
 
 function multiplesOfFiveBackwards() {
   let multiplosCinco = []
@@ -87,7 +87,7 @@ function multiplesOfFiveBackwards() {
   }
   return multiplosCinco
 }
-//console.log(multiplesOfFiveBackwards())
+console.log(multiplesOfFiveBackwards())
 
 function squareNumbersBackwards() {
   let quadradosPerfeitos = []
@@ -98,6 +98,6 @@ function squareNumbersBackwards() {
   }
   return quadradosPerfeitos
 }
-//console.log(squareNumbersBackwards())
+console.log(squareNumbersBackwards())
 
 
